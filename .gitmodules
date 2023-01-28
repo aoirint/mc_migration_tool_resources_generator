@@ -1,0 +1,3 @@
+[submodule "resources"]
+	path = resources
+	url = https://github.com/aoirint/mc_migration_tool_resources.git
